@@ -1,0 +1,16 @@
+TypeScript
+Vue.JS
+Python
+TensorFlow
+Keras
+Elixir
+Erlang
+Go
+Scala
+F#
+Rust
+Haskell
+Prolog
+Kotlin
+Clojure
+Elm

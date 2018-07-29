@@ -1,0 +1,22 @@
+COBOL
+Visual Basic
+VBScript
+Perl
+Delphi
+PL/SQL
+PHP
+Ruby
+Java
+C#
+Javascript
+AWK
+Fortran
+OCaml
+LISP
+Ook!
+Logo
+Ada
+Pascal
+C
+C++
+Eiffel

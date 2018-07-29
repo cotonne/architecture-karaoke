@@ -1,0 +1,22 @@
+IoT
+BlockChain
+Machine Learning
+Deep Learning
+Feature Toggling
+Event Sourcing
+CQRS
+FaaS
+Chaos Engineering
+GraphQL
+DDD
+BDD
+Cloud
+Kubernetes
+Consumer-driven contract testing
+Event Storming
+Microservices
+IaaS
+PaaS
+SaaS
+Vagrant
+Docker

@@ -1,0 +1,12 @@
+Kafka
+Spark
+ElasticSearch
+Cassandra
+Mongo
+DB2
+PostGRE
+MySQL
+Oracle
+CouchBase
+Neo4J
+MariaDB

@@ -1,0 +1,15 @@
+Prolog
+Haskell
+Coq
+LISP
+OCaml
+Excel
+Access
+HTTPoP
+AngularJS
+Ansible
+Reactive
+Isomorphic
+SPA
+Progressive WebApp
+Lotus
